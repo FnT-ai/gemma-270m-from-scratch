@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Gemma 270M From Scratch
+message: "If you use this repository in your work, please cite it."
+authors:
+  - family-names: Faizan
+version: 1.0.0
+license: MIT
