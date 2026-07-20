@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+tqdm
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
+safetensors
+einops
+pandas
+scikit-learn
+jupyter
+ipykernel
