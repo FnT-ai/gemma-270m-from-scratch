@@ -1,0 +1,1 @@
+PyTorch implementation of a 270M-parameter Gemma-style decoder-only language model with end-to-end training, evaluation, and inference.
