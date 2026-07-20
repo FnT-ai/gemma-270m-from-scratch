@@ -1,5 +1,3 @@
-# gemma-270m-from-scratch
-Built a 270M-parameter Gemma-style decoder-only language model in PyTorch with end-to-end training, evaluation, and inference
 # Building a 270M-Parameter Gemma-Style Language Model from Scratch
 
 A complete PyTorch implementation of a 270M-parameter decoder-only transformer inspired by the Gemma architecture. This project demonstrates the complete workflow for developing a small language model, including data preprocessing, tokenizer preparation, transformer implementation, training, evaluation, and inference.
