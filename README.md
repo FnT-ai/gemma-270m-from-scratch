@@ -80,6 +80,14 @@ gemma-270m-from-scratch/
 - Model Parallelism
 - Larger Context Windows
 
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ---
 
 ## License
