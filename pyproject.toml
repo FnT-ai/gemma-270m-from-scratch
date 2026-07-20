@@ -1,1 +1,20 @@
+[project]
+name = "gemma-270m-from-scratch"
+version = "1.0.0"
+description = "PyTorch implementation of a 270M-parameter Gemma-style language model."
+authors = [
+    {name = "Faizan"}
+]
+requires-python = ">=3.10"
 
+dependencies = [
+    "torch",
+    "transformers",
+    "tokenizers",
+    "numpy",
+    "matplotlib",
+    "datasets",
+    "accelerate",
+    "einops",
+    "tqdm"
+]
